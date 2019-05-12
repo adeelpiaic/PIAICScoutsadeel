@@ -94,6 +94,8 @@ Branches
 Chapter 3
 push to the website
 
+git fetch command uses to download the working.
+git pull command uses to download the working with the log.
 
 git clone url
 

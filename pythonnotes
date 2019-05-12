@@ -1,0 +1,44 @@
+Every characters will have 8 digit in computer language 
+e.g A = 01000001
+Computer only knows the binary number
+
+Translator
+which translate the word with the binary number
+
+Compiler
+Collecting all information and translate all the character with the binary number and provide the information.
+
+PYTHON is and interpreter language (It is a mature language and was invented in 1986) It has big community.
+It's library are written in low languages. "C++, Binary language, Machine Language"
+
+All the translator called middle level language
+at low side will be low language (It is easy for Machine to understand)
+At upper side called high level language (It is easy for human)
+
+Why we are choosing PYTHON? because;
+1) It is mature
+2) It has low level libraries
+
+How to run python in ubuntu
+Open terminal type python
+
+print("Adeel") small brackets called parathesis
+
+functions being called after writing with 
+command()
+
+It is not fruitfull to create software in this interpreter
+
+second step to make a source file in python
+
+create source file with terminal
+touch f1.py
+
+open the f1.py file with text editor
+write the code
+print("example")
+save the file
+
+Open the file in terminal
+python f1.py (it will show the print in terminal)
+

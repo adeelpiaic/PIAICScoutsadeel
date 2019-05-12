@@ -42,3 +42,21 @@ save the file
 Open the file in terminal
 python f1.py (it will show the print in terminal)
 
+as notepad simple editor, we have to remember every code and case sensitivity
+that's why we need intellicence IDE
+
+pycharm
+VScode
+Spyder
+Rstudio
+Jupyter notebook
+
+We have to use Jupyter notebook
+open from terminal type
+jupyter notebook
+
+jupyter notebook will be opened in browser
+new file to be created 
+WITH NEW python3
+
+Smarter way to learn python (10 Chapter to read next class assignment)

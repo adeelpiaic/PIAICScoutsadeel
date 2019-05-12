@@ -22,12 +22,12 @@ Why we are choosing PYTHON? because;
 How to run python in ubuntu
 Open terminal type python
 
-print("Adeel") small brackets called parathesis
+print("Adeel") small brackets called parentheses
 
 functions being called after writing with 
 command()
 
-It is not fruitfull to create software in this interpreter
+It is not fruitfull to create software in this interpreter (Terminal)
 
 second step to make a source file in python
 
@@ -39,12 +39,13 @@ write the code
 print("example")
 save the file
 
+print command is used to display the words
 Open the file in terminal
-python f1.py (it will show the print in terminal)
+python f1.py (it will show the file in terminal)
 
 as notepad simple editor, we have to remember every code and case sensitivity
 that's why we need intellicence IDE
-
+Following are the some IDE
 pycharm
 VScode
 Spyder

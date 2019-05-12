@@ -1,3 +1,4 @@
+Chapter 1
 $ git config --global user.name “John Doe”
 $ git config --global user.email “john@doe.org”
 $ git config --global color.ui auto
@@ -21,6 +22,7 @@ git add file name with extention (git add a.txt)
 adding file calls the staging
 
 git commit -m ".txt"
+committing calls version control system
 
 than check the log with following command
 git log
@@ -29,7 +31,7 @@ git log -p
 dont want to track the file, with following command (.gitignore is an extension not file name)
 touch .gitignore
 
-Branching
+Chapte 2 Branching
 
 in new folder
 git init
@@ -47,6 +49,42 @@ git commit -m "commit2"
 
 git merge --all
 
+Chapter3 push | PULL
+
+git remote add origin https://github.com/EnggQasim/test1.git
+
+$ git remote -v
+
+$ git branch -va
+
+$ git fetch origin master
+
+$ git fetch origin
+$ git log origin/master
+
+$ git pull
+
+$ git checkout <branchName>
+
+$ git push -u origin <branchName>
+
+$ git branch -vva
+
+$ git branch -d <branchName>
+
+$ git branch -dr origin/<branchName>
+
+
+git remote add origin 
+git remote add origin <"clone"> -f
+git push origin master              OR          git push origin master -f
+git clone repoName
+git pull origin master
+
+git push -u origin <branch> -f (push local brach on server)
+git push --all -u (push all things on remote server)
+git pull --all (pull all data from server) 
+
 Chapter 1
 configuration, stagging, commit (Version), log history checked
 
@@ -55,6 +93,7 @@ Branches
 
 Chapter 3
 push to the website
+
 
 git clone url
 

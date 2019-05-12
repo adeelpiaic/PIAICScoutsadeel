@@ -1,5 +1,6 @@
-git config username
-git config email 
+$ git config --global user.name “John Doe”
+$ git config --global user.email “john@doe.org”
+$ git config --global color.ui auto
 
 open new folder and than initialize with following code.
 git init

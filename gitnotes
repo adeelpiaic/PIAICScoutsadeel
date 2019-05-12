@@ -1,0 +1,56 @@
+git config username
+git config email 
+
+open new folder and than initialize with following code.
+git init
+
+and than check the status with following code
+git status
+status command gives the tracked and untracked file
+
+create file with following command
+touch a.txt
+
+after creating file check status with following
+git status
+
+un tracked file will be shown in red color.
+we have to track the file with the following command
+git add file name with extention (git add a.txt)
+adding file calls the staging
+
+git commit -m ".txt"
+
+than check the log with following command
+git log
+git log -p
+
+dont want to track the file, with following command (.gitignore is an extension not file name)
+touch .gitignore
+
+Branching
+
+in new folder
+git init
+creat a new file with
+touch a.txt
+git add a.txt
+git commit -m "commit first"
+
+Create another branch with the command
+git branch branch name
+create file
+touch b.txt
+git add b.txt
+git commit -m "commit2"
+
+git merge --all
+
+Chapter 1
+configuration, stagging, commit (Version), log history checked
+
+Chapter 2
+Branches
+
+Chapter 3
+push to the website

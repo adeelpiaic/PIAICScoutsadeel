@@ -1,0 +1,109 @@
+Following will be today's class regarding python
+Every programs having there own fundamentals
+every class have methods
+every programming language have operators.
+and having all the control loops.
+Steps are as follows;
+Pre-defined Functions
+Pre-defined methods and artributes
+Operators
+Control loop
+
+to avoid repeatition we use functions.
+all functions are pre-defined.
+
+every function is classified
+
+in world everything which have called object.
+
+What is method.
+Object which can perform any action called method.
+
+Artributes
+Atributes, properties, fileds (in rust language)
+Any Property of Object called artributes. 
+
+How to identify functions
+every name having small and medium bracket open and close called "function"
+Method and function can't being called until unless object is available.
+instant, reference and object
+
+still class
+couple class
+
+every class having it's own method & artributes
+
+Pre defined Function example
+anyname()
+
+Predefined Method example
+ref.anyname() 
+
+Artirbutes example
+ref.anyname
+
+String class Method and Artributes (String CLASS have 24 Method)
+Dictionary
+String 
+list method have to push on git hub
+
+Method have to operations
+Inline (Inline operations doesn't change the original data)
+In-memorial
+
+if needs to apply multi line variabl
+the code will be written in triple quote
+
+Hard coded text, stream literates
+Whenever data needs to change, the source needs to be open by the programmer. this calls hard coded text.
+Static application
+
+How to convert static application to dynamic application
+Everry static application convert to dynamica application will be put in "Variable"
+
+1) All variables will be in lower case 
+2) No space _ will be used instead of space
+3) Number will not be used as first word
+
+return function
+Non-return function
+
+return function value can be store in any variable.
+
+Non-return function where value can not be stored in any variable.
+
+Operation
+Operant
+Operator
+
+concatinact is to joint to values
+Conatination is an operator
+= operator
+
+Example
+
+assign operation
+logical operation
+
+% is modula operator
+// is used for float division ignore the value after . e.g 3.75 after // 3
+** is used for power
+= always prefer the new values and ignore the previous value
++=
+IN python mathematic operation rule called PEMDAS
+
+Homework
+20 Operant
+and 18 operator
+and shared in group slack AI_MUHAMMAD QASIM
+HAMZA MANSOOR SAQIB, HASEEB AND SHARE I.T EXPERT BY SIR QASIM
+
+= equal
+== is used for comparison
+
+and in python language is called necessary
+or in python language is called optional
+
+If we perofrm operation of addition or contication text with number (integar) will give an error
+
+Zen of python
